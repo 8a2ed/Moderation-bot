@@ -1,16 +1,1 @@
-{
-  "814055671812063242": {
-    "func": true,
-    "settings": {
-      "user_punish": "remove_roles",
-      "bot_punish": "kick"
-    }
-  },
-  "812938812820684821": {
-    "func": true,
-    "settings": {
-      "user_punish": "remove_roles",
-      "bot_punish": "kick"
-    }
-  }
-}
+{}
